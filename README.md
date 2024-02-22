@@ -16,7 +16,7 @@ Whether you're a student, practicing engineer, or researcher, Structural_Llama c
 📚 Stay code-compliant: Get references to relevant design standards and regulations (AISC, ACI, CSA, Eurocode, etc.).
 📢 Important Note: Do not rely on this model for creating correct structural calculations. It still has a long way to go! (Note: the model is primed for Python, VS Code and Poetry; this can be easily modified).
 
-![image](https://github.com/joreilly86/structual_llama/assets/44675992/954cb0c7-d6c4-466e-94a8-b201d8893593)
+![image](https://github.com/joreilly86/structual_llama/assets/44675992/95fea4d2-7936-4853-a9b3-4a264a6a129a)
 
 ## Requirements 📋
 
