@@ -57,6 +57,9 @@ For all things Python in engineering, subscribe to the [Flocode newsletter](floc
 
 James 🌊
 
+---
+
+# Info below is forked from [OpenWebUI](https://github.com/open-webui/open-webui/tree/main) so this may have been updated by the time you see this! Docker is the best path forward here.
 
 # Open WebUI (Formerly Ollama WebUI) 👋
 
