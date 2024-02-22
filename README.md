@@ -10,11 +10,11 @@ Structural_Llama 🦙 leverages advanced language modelling to aid structural en
 
 Whether you're a student, practicing engineer, or researcher, Structural_Llama can help you:
 
-📘 Understand complex concepts: Get in-depth explanations of structural design principles, analysis methods, failure modes, and code requirements.
-💡 Solve problems efficiently: Receive guidance on design calculations, optimization approaches, and troubleshooting structural issues.
-💻 Enhance your code: Get Python code suggestions (using NumPy, SciPy, and other relevant libraries) for analysis, visualization, and automating calculations.
-📚 Stay code-compliant: Get references to relevant design standards and regulations (AISC, ACI, CSA, Eurocode, etc.).
-📢 Important Note: Do not rely on this model for creating correct structural calculations. It still has a long way to go! (Note: the model is primed for Python, VS Code and Poetry; this can be easily modified).
+- 📘 Understand complex concepts: Get in-depth explanations of structural design principles, analysis methods, failure modes, and code requirements.
+- 💡 Solve problems efficiently: Receive guidance on design calculations, optimization approaches, and troubleshooting structural issues.
+- 💻 Enhance your code: Get Python code suggestions (using NumPy, SciPy, and other relevant libraries) for analysis, visualization, and automating calculations.
+- 📚 Stay code-compliant: Get references to relevant design standards and regulations (AISC, ACI, CSA, Eurocode, etc.).
+- 📢 Important Note: Do not rely on this model for creating correct structural calculations. It still has a long way to go! (Note: the model is primed for Python, VS Code and Poetry; this can be easily modified).
 
 ![image](https://github.com/joreilly86/structual_llama/assets/44675992/95fea4d2-7936-4853-a9b3-4a264a6a129a)
 
