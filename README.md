@@ -67,7 +67,7 @@ We're excited to see how Structural_Llama assists you with your structural engin
 
 ---
 
-# Info below is forked from [OpenWebUI](https://github.com/open-webui/open-webui/tree/main) so this may have been updated by the time you see this! Docker is the best path forward here.
+# Info below is forked from [OpenWebUI](https://github.com/open-webui/open-webui/tree/main) 
 
 # Open WebUI (Formerly Ollama WebUI) 👋
 
