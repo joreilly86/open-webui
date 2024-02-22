@@ -1,3 +1,63 @@
+# structural_llama 🦙
+
+## Your AI Assistant for Structural Engineering 🏗️
+
+Structural_Llama is a powerful language model fine-tuned to provide insights and assistance with structural engineering tasks. Whether you're a student, practicing engineer, or researcher, Structural_Llama can help you:
+
+- **Understand complex concepts:** Get in-depth explanations of structural design principles, analysis methods, failure modes, and code requirements. 📘
+- **Solve problems efficiently:** Receive guidance on design calculations, optimization approaches, and troubleshooting structural issues. 💡
+- **Enhance your code:** Get Python code suggestions (using NumPy, SciPy, and other relevant libraries) for analysis, visualization, and automating calculations. 💻
+- **Stay code-compliant:** Get references to relevant design standards and regulations (AISC, ACI, CSA, Eurocode, etc.). 📚
+
+* **📢 PSA: Do not rely on this model for creating correct structural calculations. It still has a long way to go!** (note: the model is primed for Python, VS Code and Poetry; this can be easily modified).
+
+## Requirements 📋
+
+- Model size: 7.4GB (llama2-13b)
+- A GPU and some decent RAM are highly recommended for solid performance. 🖥️
+
+## Installation 💾
+
+- You have a few options to get up and running. I recommend installing and managing through [Open WebUI](https://openwebui.com/) and using [Docker](https://www.docker.com/) to install, run and manage your models.
+- See the [GitHub repo](https://github.com/open-webui/open-webui) for detailed steps on installation via Docker and other tools.
+
+- If you just want the model, you can run:\
+     ```ollama run joreilly86/structural_llama```
+
+## Key Capabilities 🔑
+
+- **Technical Expertise:** Provides explanations tailored to structural engineering topics. 🏛️
+- **Code Integration:** Understands and suggests Python code relevant to engineering problems. 🖥️
+- **Knowledge Access:** References authoritative sources like design manuals and building codes. 📖
+- **Contextual Awareness:** Considers code requirements and practical constructability when offering solutions. 🛠️
+
+**How to Use Structural_Llama** 🤖
+
+Ask questions, try to be precise and decompose your problems into small sequential steps for best results.
+
+**Example Interactions** 💬
+
+- **Question:** "How do I calculate the buckling capacity of a steel column?"
+   - **Potential Response:** Provides a theoretical explanation, references AISC specifications, and potentially a Python code snippet for calculation.
+- **Prompt:** [Provide a code snippet calculating bending stresses in a beam] "Can you optimize this code for readability and efficiency?"
+   - **Potential Response:** Suggests refactoring, explains algorithm choice, and demonstrates improvements.
+
+**Important Notes** 📝
+
+- Structural_Llama is a tool, not a replacement for professional judgment. Always validate results and ensure compliance with local regulations.
+- The model is continuously evolving. If you have feedback or suggestions, reach out at info@flocode.dev.
+
+**Get Started!** 🚀
+
+We're excited to see how Structural_Llama helps you with your structural engineering projects!
+
+**For more Python engineering tips and insights** 🐍
+
+For all things Python in engineering, subscribe to the [Flocode newsletter](flocode.dev/newsletter) and visit [flocode.dev](flocode.dev).
+
+James 🌊
+
+
 # Open WebUI (Formerly Ollama WebUI) 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
