@@ -2,7 +2,11 @@
 
 ## Your AI Assistant for Structural Engineering 🏗️
 
-Structural_Llama is a powerful language model fine-tuned to provide insights and assistance with structural engineering tasks. Whether you're a student, practicing engineer, or researcher, Structural_Llama can help you:
+Structural_Llama leverages advanced language modelling to aid structural engineers. It offers insights and assistance with common tasks. This open-source project brings the power of large language models like Llama2 directly to your machine with a user-friendly interface. Expand functionality even further by connecting your OpenAI API key for full ChatGPT capabilities – all within a single platform.
+
+This app runs locally on Docker for enhanced privacy. Your data is analyzed directly on your device using a local model.
+
+Whether you're a student, practicing engineer, or researcher, Structural_Llama can help you:
 
 - **Understand complex concepts:** Get in-depth explanations of structural design principles, analysis methods, failure modes, and code requirements. 📘
 - **Solve problems efficiently:** Receive guidance on design calculations, optimization approaches, and troubleshooting structural issues. 💡
@@ -15,6 +19,7 @@ Structural_Llama is a powerful language model fine-tuned to provide insights and
 
 - Model size: 7.4GB (llama2-13b)
 - A GPU and some decent RAM are highly recommended for solid performance. 🖥️
+- Docker engine running locally to host the app and your models.
 
 ## Installation 💾
 
