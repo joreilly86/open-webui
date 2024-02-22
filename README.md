@@ -2,7 +2,7 @@
 
 ## Your AI Assistant for Structural Engineering 🏗️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Structural_Llama 🦙 leverages advanced language modelling to aid structural engineers. It offers insights and assistance with common tasks. This open-source project brings the power of large language models like Llama2 directly to your machine with a user-friendly interface. Expand functionality even further by connecting your OpenAI API key for full ChatGPT capabilities – all within a single platform.
 
