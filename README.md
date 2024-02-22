@@ -2,6 +2,8 @@
 
 ## Your AI Assistant for Structural Engineering 🏗️
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Structural_Llama 🦙 leverages advanced language modelling to aid structural engineers. It offers insights and assistance with common tasks. This open-source project brings the power of large language models like Llama2 directly to your machine with a user-friendly interface. Expand functionality even further by connecting your OpenAI API key for full ChatGPT capabilities – all within a single platform.
 
 💻 This app runs locally on Docker for enhanced privacy. Your data is analyzed directly on your device using a local model.
@@ -62,9 +64,7 @@ We're excited to see how Structural_Llama assists you with your structural engin
 
 * Subscribe to the Flocode newsletter and visit flocode.dev.
 
-**From James 🌊** 
-
-
+James 🌊
 ---
 
 # Info below is forked from [OpenWebUI](https://github.com/open-webui/open-webui/tree/main) 
