@@ -14,6 +14,8 @@ Whether you're a student, practicing engineer, or researcher, Structural_Llama c
 📚 Stay code-compliant: Get references to relevant design standards and regulations (AISC, ACI, CSA, Eurocode, etc.).
 📢 Important Note: Do not rely on this model for creating correct structural calculations. It still has a long way to go! (Note: the model is primed for Python, VS Code and Poetry; this can be easily modified).
 
+![image](https://github.com/joreilly86/structual_llama/assets/44675992/0832ea27-6340-4027-90a0-2090af9b5c2f)
+
 ## Requirements 📋
 
 - Model size: 7.4GB (llama2-13b)
