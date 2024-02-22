@@ -28,38 +28,40 @@ Whether you're a student, practicing engineer, or researcher, Structural_Llama c
 - If you just want the model, you can run:\
      ```ollama run joreilly86/structural_llama```
 
-## Key Capabilities 🔑
+**Key Capabilities 🔑**
 
-- **Technical Expertise:** Provides explanations tailored to structural engineering topics. 🏛️
-- **Code Integration:** Understands and suggests Python code relevant to engineering problems. 🖥️
-- **Knowledge Access:** References authoritative sources like design manuals and building codes. 📖
-- **Contextual Awareness:** Considers code requirements and practical constructability when offering solutions. 🛠️
+* 🏛️ **Technical Expertise:** Provides explanations tailored to structural engineering topics. 
+* 🖥️ **Code Integration:** Understands and suggests Python code relevant to engineering problems.
+* 📖 **Knowledge Access:** References authoritative sources like design manuals and building codes.
+* 🛠️ **Contextual Awareness:** Considers code requirements and practical constructability when offering solutions.
 
-**How to Use Structural_Llama** 🤖
+**How to Use Structural_Llama 🤖**
 
-Ask questions, try to be precise and decompose your problems into small sequential steps for best results.
+* Ask precise questions and break down complex problems into smaller steps for best results.
 
-**Example Interactions** 💬
+**Example Interactions 💬**
 
-- **Question:** "How do I calculate the buckling capacity of a steel column?"
-   - **Potential Response:** Provides a theoretical explanation, references AISC specifications, and potentially a Python code snippet for calculation.
-- **Prompt:** [Provide a code snippet calculating bending stresses in a beam] "Can you optimize this code for readability and efficiency?"
-   - **Potential Response:** Suggests refactoring, explains algorithm choice, and demonstrates improvements.
+* **Question:** "How do I calculate the buckling capacity of a steel column?"
+* **Potential Response:** Provides a theoretical explanation, references AISC specifications, and potentially a Python code snippet for calculation.
 
-**Important Notes** 📝
+* **Prompt:** "Can you optimize this code for readability and efficiency?" (Include your code snippet)
+* **Potential Response:** Suggests refactoring, explains algorithm choice, and demonstrates improvements.
 
-- Structural_Llama is a tool, not a replacement for professional judgment. Always validate results and ensure compliance with local regulations.
-- The model is continuously evolving. If you have feedback or suggestions, reach out at info@flocode.dev.
+**Important Notes 📝**
 
-**Get Started!** 🚀
+* Structural_Llama is a powerful tool, but it's not a replacement for professional judgment. Always validate results and ensure compliance with local regulations.
+* The model is continuously evolving. If you have feedback or suggestions, reach out at [email address removed].
 
-We're excited to see how Structural_Llama helps you with your structural engineering projects!
+**Get Started! 🚀**
 
-**For more Python engineering tips and insights** 🐍
+We're excited to see how Structural_Llama assists you with your structural engineering projects!
 
-For all things Python in engineering, subscribe to the [Flocode newsletter](flocode.dev/newsletter) and visit [flocode.dev](flocode.dev).
+**For more Python engineering tips and insights 🐍**
 
-James 🌊
+* Subscribe to the Flocode newsletter and visit flocode.dev.
+
+**From James 🌊** 
+
 
 ---
 
